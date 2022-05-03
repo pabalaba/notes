@@ -1,0 +1,28 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "A notes cli app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniele Barbaro",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielebarbaro/notes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danielebarbaro/notes/issues"
+  },
+  "keywords": [
+    "notes",
+    "notes-app",
+    "notes-cli"
+  ],
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "yargs": "^17.4.1"
+  },
+  "homepage": "https://github.com/danielebarbaro/notes#readme"
+}
